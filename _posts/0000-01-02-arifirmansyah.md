@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Selamat datang di slide kedua!"
 ---
-Your text
-Use the left arrow to go back!
+Halo ini adalah cara penggunaan respond to a review
+Lihat! Apakah ada warna merah pada tampilan atau warna hijau
